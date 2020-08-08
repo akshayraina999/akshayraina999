@@ -49,9 +49,5 @@
 <a href="https://github.com/akshayraina999/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=akshayraina999&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
 </a>
-<a href="https://github.com/akshayraina999/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=akshayraina999&layout=compact&theme=radical" />
-</a>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayraina999&theme=tokyonight)

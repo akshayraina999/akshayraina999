@@ -9,7 +9,7 @@
 ### Connect with me:
 
 [<img align="left" alt="akshayraina.000webhostapp.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://akshayraina.000webhostapp.com)
-[<img align="left" alt="rainaakki | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/rainaakki)
+[<img align="left" alt="rainaakki | Twitter" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" />](https://twitter.com/rainaakki)
 [<img align="left" alt="akshayraina | LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/akshayraina393/)
 [<img align="left" alt="akshayraina | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/akshay_raina_/)
 [<img align="left" alt="akshayraina | Facebook" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" />](https://www.facebook.com/akshay.raina.96)

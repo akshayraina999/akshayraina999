@@ -46,11 +46,22 @@
 <br />
 
 
-<img align="left" alt="akshayraina999's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=akshayraina999&show_icons=true&hide_border=true" />
+<a href="https://github.com/akshayraina999/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=akshayraina999&show_icons=true&include_all_commits=true&theme=radical" alt="Akshay's github stats" />
+</a>
 <br />
 <br />
 <a href="https://github.com/akshayraina999/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=akshayraina999&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayraina999&layout=compact&theme=radical" />
+</a>
+
+<a href="https://github.com/akshayraina999/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshayraina999&repo=github-readme-stats&theme=radical" />
+</a>    
+<a href="https://github.com/akshayraina999/akshayraina999.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshayraina999&repo=anuraghazra.github.io&theme=radical" />
 </a>
 

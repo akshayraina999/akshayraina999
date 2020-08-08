@@ -56,10 +56,10 @@
 
 <a href="https://github.com/akshayraina999/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=akshayraina999&repo=github-readme-stats&theme=radical" />
+  <img align="center" src="https://github-readme-stats.akshayraina999.vercel.app/api/pin/?username=akshayraina999&repo=github-readme-stats&theme=radical" />
 </a>    
-<a href="https://github.com/akshayraina999/anuraghazra.github.io">
+<a href="https://github.com/akshayraina999/akshayraina999.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=akshayraina999&repo=anuraghazra.github.io&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshayraina999&repo=akshayraina999.github.io&theme=radical" />
 </a>
 

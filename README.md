@@ -54,12 +54,4 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=akshayraina999&layout=compact&theme=radical" />
 </a>
 
-<a href="https://github.com/akshayraina999/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.akshayraina999.vercel.app/api/pin/?username=akshayraina999&repo=github-readme-stats&theme=radical" />
-</a>    
-<a href="https://github.com/akshayraina999/akshayraina999.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshayraina999&repo=akshayraina999.github.io&theme=radical" />
-</a>
 

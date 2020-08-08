@@ -47,4 +47,10 @@
 
 
 <img align="left" alt="akshayraina999's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=akshayraina999&show_icons=true&hide_border=true" />
+<br />
+<br />
+<a href="https://github.com/akshayraina999/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=akshayraina999&layout=compact&theme=radical" />
+</a>
 

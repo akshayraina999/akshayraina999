@@ -1,12 +1,10 @@
-Hi there, I am Akshay.
+  Hi there, I am Akshay.
 
 
 - 🔭 I’m currently working on Python.
 - 🌱 I’m currently learning everything.
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about programming languages
+- ⚡ Fun fact: It’s not a bug 🐞 – it’s an undocumented feature.
 
 ### Connect with me:
 

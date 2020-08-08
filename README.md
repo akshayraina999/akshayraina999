@@ -12,7 +12,7 @@
 [<img align="left" alt="rainaakki | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/rainaakki)
 [<img align="left" alt="akshayraina | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/akshayraina393/)
 [<img align="left" alt="akshayraina | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/akshay_raina_/)
-[<img align="left" alt="akshayraina | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/akshay.raina.96)
+[<img align="left" alt="akshayraina | Facebook" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" />](https://www.facebook.com/akshay.raina.96)
 <br />
 
 ### Languages :

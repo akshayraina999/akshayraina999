@@ -51,3 +51,7 @@
 </a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayraina999&theme=tokyonight)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akshayraina999&repo=github-readme-stats)](https://github.com/akshayraina999/github-readme-stats)
+
+

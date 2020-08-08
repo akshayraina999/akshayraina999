@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="akshayraina.000webhostapp.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://akshayraina.000webhostapp.com)
+[<img align="left" alt="akshayraina.000webhostapp.com" width="22px" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/regular/user.svg" />](https://akshayraina.000webhostapp.com)
 [<img align="left" alt="rainaakki | Twitter" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" />](https://twitter.com/rainaakki)
 [<img align="left" alt="akshayraina | LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/akshayraina393/)
 [<img align="left" alt="akshayraina | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/akshay_raina_/)
@@ -37,6 +37,9 @@
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
 <img align="left" alt="" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" />
+<img align="left" alt="" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/anaconda.svg" />
+<img align="left" alt="" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/jupyter.svg" />
+
 
 ###
 <br />

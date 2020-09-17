@@ -50,11 +50,13 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=akshayraina999&show_icons=true&include_all_commits=true&theme=dracula" alt="Akshay's github stats" />
 </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayraina999&theme=gradient)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayraina999&theme=dark)
 ![Akshay's github stats](https://github-readme-stats.akshayraina999.vercel.app/api?username=akshayraina999&hide=contribs,prs)
 ![Akshay's github stats](https://github-readme-stats.akshayraina999.vercel.app/api?username=akshayraina999&count_private=true)
 [![Top Langs](https://github-readme-stats.akshayraina999.vercel.app/api/top-langs/?username=akshayraina999&hide=javascript,html)](https://github.com/akshayraina999/github-readme-stats)
 [![Top Langs](https://github-readme-stats.akshayraina999.vercel.app/api/top-langs/?username=akshayraina999&layout=compact)](https://github.com/akshayraina999/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.akshayraina999.vercel.app/api/pin/?username=akshayraina999&repo=github-readme-stats)](https://github.com/akshayraina999/github-readme-stats)
+
 
 
 

@@ -51,7 +51,7 @@
 </a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayraina999&theme=tokyonight)
-(https://github-readme-stats-1-xi.vercel.app/api?username=akshayraina999&hide=contribs,prs)
+![Akshay's github stats](https://github-readme-stats-1-xi.vercel.app/api?username=akshayraina999&hide=contribs,prs)
 
 
 

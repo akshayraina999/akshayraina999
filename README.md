@@ -1,4 +1,4 @@
-  Hi there, <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width=45px height=30px style="bottom=50px"> I am Akshay.
+  Hi there, <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width=45px height=50px style="bottom=20px"> I am Akshay.
 
 
 - 🔭 I’m currently working on Python.

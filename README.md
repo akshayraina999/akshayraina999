@@ -47,7 +47,8 @@
 <br />
 <br /><br /><br />
 
-
+<details>
+  
 <summary>📈 My GitHub Stats</summary>
 
 <p align="center"> <img src="https://github-readme-stats.akshayraina999.vercel.app/api?username=akshayraina999&show_icons=true&theme=dracula" alt="akshay raina" />

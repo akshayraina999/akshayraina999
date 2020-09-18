@@ -68,8 +68,7 @@
 
 
 
-https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif
-
+<img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" >
 
 
 

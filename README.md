@@ -18,7 +18,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=akshayraina999.akshayraina999)
 <br />
 
-
+<img align="right" alt="GIF" src="https://github.com/akshayraina999/akshayraina999/blob/master/undraw_version_control_9bpv.svg?raw=true" width="500" height="320" />
 
 ### Languages :
 

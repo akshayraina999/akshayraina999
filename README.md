@@ -51,7 +51,8 @@
 <a href="https://github.com/akshayraina999/github-readme-stats">
   <img align="center" src="https://github-readme-stats.akshayraina999.vercel.app/api?username=akshayraina999&show_icons=true&include_all_commits=true&theme=dracula" alt="Akshay's github stats" />
 </a>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayraina999&theme=dracula)
+
+![Top Langs](https://github-readme-stats.akshayraina999.vercel.app/api/top-langs/?username=akshayraina999&theme=dracula)
 
 
 

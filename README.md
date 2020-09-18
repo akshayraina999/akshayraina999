@@ -64,7 +64,8 @@
 <details>
 <summary>📈 Most Used Languages</summary>
 
-<p align="center"> ![Top Langs](https://github-readme-stats.akshayraina999.vercel.app/api/top-langs/?username=akshayraina999&theme=dracula)
+<p align="center"> <img src="https://github-readme-stats.akshayraina999.vercel.app/api/top-langs/?username=akshayraina999&show_icons=true&theme=gotham" alt="akshay raina" />
+
 
 </details>
 

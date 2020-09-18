@@ -50,11 +50,12 @@
 
 <a href="https://github.com/akshayraina999/github-readme-stats">
   <img align="center" src="https://github-readme-stats.akshayraina999.vercel.app/api?username=akshayraina999&show_icons=true&include_all_commits=true&theme=dracula" alt="Akshay's github stats" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayraina999&theme=dracula)
 </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayraina999&theme=dracula)
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="akshayraina393"><a class="LI-simple-link" href='https://in.linkedin.com/in/akshayraina393?trk=profile-badge'>Akshay Raina</a></div>
+
+
 
 
 

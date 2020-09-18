@@ -56,7 +56,7 @@
 </details>
 
 <details>
-<summary>📈 Most Used Languages</summary>
+<summary>💻 Most Used Languages</summary>
 
 <p align="center"> <img src="https://github-readme-stats.akshayraina999.vercel.app/api/top-langs/?username=akshayraina999&show_icons=true&theme=dracula" alt="akshay raina" />
 

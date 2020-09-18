@@ -54,6 +54,12 @@
 
 ![Top Langs](https://github-readme-stats.akshayraina999.vercel.app/api/top-langs/?username=akshayraina999&theme=dracula)
 
+<details>
+<summary>📈 My GitHub Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.akshayraina999.vercel.app/api?username=akshayraina999&show_icons=true&theme=gotham" alt="akshay raina" />
+
+</details>
 
 
 

@@ -1,7 +1,7 @@
   Hi there, I am Akshay. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-- 🔭 I’m currently working on Python.
+- 🔭 I’m currently working on Python. (https://tenor.com/view/python-powered-logo-programming-language-gif-16957606)
 - 🌱 I’m currently learning everything.
 - 💬 Ask me about programming languages
 - ⚡ Fun fact: It’s not a bug 🐞 – it’s an undocumented feature.

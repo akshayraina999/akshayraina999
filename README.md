@@ -64,7 +64,7 @@
 
 <p align="center"> <img src="https://github-readme-stats.akshayraina999.vercel.app/api/top-langs/?username=akshayraina999&show_icons=true&theme=dracula" alt="akshay raina" />
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayraina999&layout=compact)](https://github.com/akshayraina999/github-readme-stats)
 </details>
 
 

@@ -55,20 +55,20 @@
   
 <summary>📈 My GitHub Stats</summary>
 
- <img src="https://github-readme-stats.akshayraina999.vercel.app/api?username=akshayraina999&show_icons=true&theme=dracula" alt="akshay raina" />
+ <p align="center"> <img src="https://github-readme-stats.akshayraina999.vercel.app/api?username=akshayraina999&show_icons=true&theme=dracula" alt="akshay raina" />
 
 </details>
 
 <details>
 <summary>💻 Most Used Languages</summary>
 
- <img src="https://github-readme-stats.akshayraina999.vercel.app/api/top-langs/?username=akshayraina999&show_icons=true&theme=dracula" alt="akshay raina" />
+ <p align="center"> <img src="https://github-readme-stats.akshayraina999.vercel.app/api/top-langs/?username=akshayraina999&show_icons=true&theme=dracula" alt="akshay raina" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayraina999&layout=compact)](https://github.com/akshayraina999/github-readme-stats)
 </details>
 
 <a href="https://github.com/akshayraina999/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshayraina999&repo=github-readme-stats" />
+  <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshayraina999&repo=github-readme-stats" />
 </a>
 
 

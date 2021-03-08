@@ -16,10 +16,7 @@
 [<img align="left" alt="akshayraina | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/akshay_raina_/)
 [<img align="left" alt="akshayraina | Facebook" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" />](https://www.facebook.com/akshay.raina.96)
 ![](https://visitor-badge.glitch.me/badge?page_id=akshayraina999.akshayraina999)
-
 <br />
-
-
 
 ### Languages :
 
@@ -34,13 +31,13 @@
 
 ### Databases :
 
-<img align="left" alt="MySQL" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="MySQL" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="PostgreSQL" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
 <br /><br />
 
 ### DevOps & Version Control :
 
-<img align="left" alt="Docker" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
+<img align="left" alt="Docker" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
 <img align="left" alt="Kubernetes" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" />
 <img align="left" alt="Jenkins" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -52,7 +49,7 @@
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
 <img align="left" alt="" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" />
-<img align="left" alt="" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" />
+<img align="left" alt="" height="50px" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" />
 <img align="left" alt="" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" />
 
 

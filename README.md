@@ -49,7 +49,7 @@
 
 <img align="left" alt="Linux" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
 <img align="left" alt="Windows" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" />
-<img align="left" alt="Ubuntu" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" />
+<img align="left" alt="Ubuntu" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" />
 <br /><br />
 
 

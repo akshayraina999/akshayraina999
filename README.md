@@ -44,6 +44,15 @@
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <br /><br />
 
+### Operating System Used :
+
+
+<img align="left" alt="Linux" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
+<img align="left" alt="Windows" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" />
+<img align="left" alt="Ubuntu" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" />
+<br /><br />
+
+
 ### ML Models and IDE :
 
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -51,8 +60,6 @@
 <img align="left" alt="" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" />
 <img align="left" alt="" height="50px" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" />
 <img align="left" alt="" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" />
-
-
 ###
 <br />
 <br /><br />

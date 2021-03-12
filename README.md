@@ -1,7 +1,7 @@
-  Hi there, <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width=50px height=50px style="margin-top:50px"> I am Akshay.
+  Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Akshay.
 
 
-- 🔭 I’m currently working on Python.
+- 🔭 I’m currently working on Python.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - 🌱 I’m currently learning everything.
 - 💬 Ask me about programming languages
 - ⚡ Fun fact: It’s not a bug 🐞 – it’s an undocumented feature.

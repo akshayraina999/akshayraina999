@@ -6,7 +6,7 @@
 - 💬 Ask me about programming languages
 - ⚡ Fun fact: It’s not a bug 🐞 – it’s an undocumented feature.
 
-<img align="right" alt="GIF" src="https://github.com/akshayraina999/akshayraina999/blob/master/undraw_version_control_9bpv.svg?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/akshayraina999/akshayraina999/blob/master/undraw_version_control_9bpv.svg?raw=true" width="450" height="320" />
 
 ### Connect with me:
 
@@ -26,7 +26,8 @@
 <img align="left" alt="Java" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<br /></br >
+<br /></br ></br >
+
 
 ### Databases :
 

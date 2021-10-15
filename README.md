@@ -32,6 +32,7 @@
 
 <img align="left" alt="MySQL" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="PostgreSQL" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="PostgreSQL" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" />
 <br /><br />
 
 ### DevOps & Version Control :

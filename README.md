@@ -32,11 +32,12 @@
 
 <img align="left" alt="MySQL" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="PostgreSQL" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="PostgreSQL" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" />
+<img align="left" alt="MongoDB" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" />
 <br /><br />
 
-### DevOps & Version Control :
+### Automation & Version Control :
 
+<img align="left" alt="Visual Studio Code" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/ansible.svg" />
 <img align="left" alt="Docker" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
 <img align="left" alt="Kubernetes" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" />
 <img align="left" alt="Jenkins" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" />
@@ -53,13 +54,12 @@
 <br /><br />
 
 
-### ML Models and IDE :
+### Frameworks :
 
-<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
+<img align="left" alt="Django" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" />
+<img align="left" alt="Flask" width="55px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" />
+<img align="left" alt="" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" />
-<img align="left" alt="" height="50px" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" />
-<img align="left" alt="" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" />
 
 <br />
 <br /><br />

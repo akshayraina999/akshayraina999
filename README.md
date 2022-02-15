@@ -76,5 +76,5 @@
 
  <p align="center"> <img src="https://github-readme-stat-akshayraina999.vercel.app/api/top-langs/?username=akshayraina999&show_icons=true&theme=dracula" alt="akshay raina" />
 
-[<p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayraina999&layout=compact&show_icons=true&theme=dracula)](https://github.com/akshayraina999/github-readme-stats)
+[<p align="center">![Top Langs](https://github-readme-stat-akshayraina999.vercel.app//api/top-langs/?username=akshayraina999&layout=compact&show_icons=true&theme=dracula)](https://github.com/akshayraina999/github-readme-stats)
 </details>

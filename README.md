@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Python.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- 🌱 I’m currently learning everything.
+- 🌱 I’m currently learning <img alt="Terraform" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" />
 - 💬 Ask me about programming languages
 - ⚡ Fun fact: It’s not a bug 🐞 – it’s an undocumented feature.
 
@@ -41,7 +41,8 @@
 <img align="left" alt="Kubernetes" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" />
 <img align="left" alt="Jenkins" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Git" width="40px" src="https://github.com/akshayraina999/akshayraina999/blob/master/openshift-icon.svg" />
+<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <br /><br />
 
 ### Operating System Used :

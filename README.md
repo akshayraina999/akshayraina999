@@ -50,13 +50,14 @@
 <img align="left" alt="Linux" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
 <img align="left" alt="Windows" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" />
 <img align="left" alt="Ubuntu" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" />
+<img align="left" alt="CentOS" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original-wordmark.svg" />
 <br /><br />
 
 
 ### Frameworks :
 
-<img align="left" alt="Django" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" />
-<img align="left" alt="Flask" width="55px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" />
+<img align="left" alt="Django" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" />
+<img align="left" alt="Flask" width="60px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" />
 <img align="left" alt="" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" />
 

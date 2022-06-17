@@ -1,4 +1,4 @@
-  Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Akshay.
+  Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"> I am Akshay.
 
 
 - 🔭 I’m currently working on Python.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -50,7 +50,7 @@
 <img align="left" alt="Linux" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
 <img align="left" alt="Windows" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" />
 <img align="left" alt="Ubuntu" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" />
-<img align="left" alt="CentOS" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original-wordmark.svg" />
+<img align="left" alt="CentOS" width="60px" src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original-wordmark.svg" />
 <br /><br />
 
 

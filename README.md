@@ -29,14 +29,17 @@
 
 ### Cloud Providers :
 
-<img align="left" alt="MySQL" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="Azure" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" />
+<img align="left" alt="AWS" width="60px" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img align="left" alt="GCP" width="70px" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" />
+<br /></br > 
 
 ### Databases :
 
-<img align="left" alt="Azure" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" />
-<img align="left" alt="AWS" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<img align="left" alt="GCP" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" />
-<br /><br />
+<img align="left" alt="MySQL" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="PostgreSQL" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="MongoDB" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" />
+<br /> <br />
 
 ### Automation & Version Control :
 
@@ -57,17 +60,8 @@
 <img align="left" alt="Ubuntu" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" />
 <img align="left" alt="CentOS" width="60px" src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original-wordmark.svg" />
 <br /><br />
-
-
-### Frameworks :
-
-<img align="left" alt="Django" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" />
-<img align="left" alt="Flask" width="60px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" />
-<img align="left" alt="" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" />
-<img align="left" alt="" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" />
-
-<br />
 <br /><br />
+
 
 <details>
   

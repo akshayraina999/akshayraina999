@@ -27,11 +27,15 @@
 <!-- <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> -->
 <br /></br >
 
-### Databases :
+### Cloud Providers :
 
 <img align="left" alt="MySQL" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="PostgreSQL" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="MongoDB" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" />
+
+### Databases :
+
+<img align="left" alt="Azure" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" />
+<img align="left" alt="AWS" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img align="left" alt="GCP" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" />
 <br /><br />
 
 ### Automation & Version Control :

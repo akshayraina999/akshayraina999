@@ -32,7 +32,7 @@
 <img align="left" alt="Azure" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" />
 <img align="left" alt="AWS" width="60px" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="left" alt="GCP" width="70px" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" />
-<br /></br > 
+<br /></br >
 
 ### Databases :
 

@@ -6,7 +6,7 @@
 - 💬 Ask me about programming languages
 - ⚡ Fun fact: It’s not a bug 🐞 – it’s an undocumented feature.
 
-<img align="right" alt="GIF" src="https://github.com/akshayraina999/akshayraina999/blob/master/undraw_version_control_9bpv.svg" width="400" height="620" />
+<img align="right" alt="GIF" src="https://github.com/akshayraina999/akshayraina999/blob/master/undraw_version_control_9bpv.svg" width="300" height="400" />
 
 ### Connect with me:
 

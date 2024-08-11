@@ -6,7 +6,7 @@
 - 💬 Ask me about programming languages
 - ⚡ Fun fact: It’s not a bug 🐞 – it’s an undocumented feature.
 
-<img align="right" alt="GIF" src="https://github.com/akshayraina999/akshayraina999/blob/master/7036172.jpg" width="500" height="620" />
+<img align="right" alt="GIF" src="https://github.com/akshayraina999/akshayraina999/blob/master/7036172.jpg" width="400" height="620" />
 
 ### Connect with me:
 
@@ -50,7 +50,7 @@
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Git" width="40px" src="https://github.com/akshayraina999/akshayraina999/blob/master/openshift-icon.svg" />
 <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Helm" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/helm/helm-original.svg" />
+<img align="left" alt="Helm" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/helm/helm-original.svg" />
 <br /><br />
 
 ### Operating System Used :

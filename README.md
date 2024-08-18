@@ -1,7 +1,11 @@
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Akshay !" src="https://github.com/akshayraina999/akshayraina999/blob/master/profile.gif" /></a></p>
+
+<br />
+  
   Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"> I am Akshay.
 
 
-- 🔭 I’m currently working on GCP.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- 🔭 I’m currently working as Sr. DevOps Engineer.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - 🌱 I’m currently learning <img alt="Terraform" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" />
 - 💬 Ask me about programming languages
 - ⚡ Fun fact: It’s not a bug 🐞 – it’s an undocumented feature.

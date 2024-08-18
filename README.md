@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Akshay !" src="https://github.com/akshayraina999/akshayraina999/blob/master/profile.gif" /></a></p>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Akshay !" src="https://github.com/akshayraina999/akshayraina999/blob/master/profile.png" /></a></p>
 
 <br />
   

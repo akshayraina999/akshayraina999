@@ -65,4 +65,4 @@
 
 ![Akshay's Github Stats](https://github-readme-stat-akshayraina999.vercel.app/api?username=akshayraina999&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stat-akshayraina999.vercel.app//api/top-langs/?username=akshayraina999&layout=compact&show_icons=true)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=akshayraina999.visitor-badge.issue.1)
+![](https://komarev.com/ghpvc/?username=akshayraina999&label=Profile%20Views&color=0e75b6&style=flat)

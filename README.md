@@ -65,8 +65,9 @@
 
 ![Akshay's Github Stats](https://github-readme-stat-akshayraina999.vercel.app/api?username=akshayraina999&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stat-akshayraina999.vercel.app//api/top-langs/?username=akshayraina999&layout=compact&show_icons=true)
-![](https://komarev.com/ghpvc/?username=akshayraina999&label=Profile%20Views&color=0e75b6&style=flat)
 
-## 🏆 GitHub Trophies
+## 📊 Profile Summary
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=akshayraina999&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshayraina999&theme=github_dark" />
+</p>

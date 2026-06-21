@@ -14,7 +14,7 @@
 
 [<img align="left" alt="akshayraina | LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/akshayraina393/)
 [<img align="left" alt="akshayraina | Instagram" width="22px" src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" />](https://www.instagram.com/akshay_raina_/)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=akshayraina999.visitor-badge.issue.1)
+![](https://komarev.com/ghpvc/?username=akshayraina999&label=Profile%20Views&color=0e75b6&style=flat)
 <br />
 
 ### 🗣️ Languages:
